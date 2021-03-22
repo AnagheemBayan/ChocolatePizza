@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 70px;
+}
+.H{
+    width: 200x;
+    position: relative;
+    left: 80px;
+    bottom: 80px;
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+}
+#am{
+    width: 60px;
+    height: 60px;
+}
+.par{
+    position: relative;
+    bottom: 10px;
+}
+.headerIMG {
+    position: absolute;
+    right:60px ;
+    top: 20px;
+}
+ul li {
+    display: inline;
+    list-style:none;
+}
+.hr{
+    height: 20px;
+    background-image : url("https://github.com/LTUC/amman-201d14/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true");
+    background-repeat : repeat;
+}
+.m{
+    font-family: 'Teko', sans-serif;
+    font-size:xx-large;
+}
+.color{
+    color: lightgray;
+    position:absolute;
+    top: 60px;
+}
+main{
+    position: relative;
+}
+main  div img{
+position: absolute;
+width:40px;
+right:60px;
+top:15px;
+}
+main img{
+    width: 100%;
+}
+.print{
+    position: absolute;
+    top: 55px;
+}
+.pr{
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    color: lightgray;
+}
+.h2{
+    font-size:80px;
+}
+body{
+    margin:30px;
+}
+.parg{
+    font-size:xx-large;
+    font-family: serif;
+}
+form{
+    position: relative;
+    padding: 50px;
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d14/main/class-10/lab-a/lab-assets/list-bg.png");
+}
+.right{
+    position:absolute ;
+    right:40px;
+    top: 20px;
+    font-size: xx-large;
+}
+.left{
+    font-size: xx-large;
+}
+.label9{
+    text-decoration: line-through;
+}
+ footer  img{
+     width:100px;
+ }
+ footer{
+     position: relative;
+ }
+  footer section h3 {
+      position:absolute ;
+      top: 0px;
+      left:120px;
+      font-size: x-large;
+  }
+  footer section p{
+    position:absolute ;
+    top: 30px;
+    left:120px;
+    font-size: x-large;
+    width:600px;
+  }
+  footer button{
+      position: absolute;
+      right: 0px;
+      top:25px;
+      padding: 20px;
+      font-size: xx-large;
+      color: white;
+      background-color:rosybrown;
+      border:none;
+}
+footer div .last{
+    position: absolute;
+}
+.div{
+    position: absolute;
+    left: 700px;
+    top:150px;
+    color:lightgray;
+}
+.small{
+    position: absolute;
+    left: 800px;
+    width:50px;
+    top:80px;
+}
